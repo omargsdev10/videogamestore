@@ -1,0 +1,15 @@
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\bin\Debug\net7.0\API.Repository.deps.json
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\bin\Debug\net7.0\API.Repository.dll
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\bin\Debug\net7.0\API.Repository.pdb
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\bin\Debug\net7.0\VGS.Shared.dll
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\bin\Debug\net7.0\VGS.Shared.pdb
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.csproj.AssemblyReference.cache
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.AssemblyInfoInputs.cache
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.AssemblyInfo.cs
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.csproj.CoreCompileInputs.cache
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.csproj.CopyComplete
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.dll
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\refint\API.Repository.dll
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\API.Repository.pdb
+C:\VS\IT-Strategy\VideoGameStoreAPI\API.Repository\obj\Debug\net7.0\ref\API.Repository.dll

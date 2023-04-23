@@ -1,0 +1,12 @@
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.csproj.AssemblyReference.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.AssemblyInfoInputs.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.AssemblyInfo.cs
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.csproj.CoreCompileInputs.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\bin\Debug\net7.0\VGS.Shared.deps.json
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\bin\Debug\net7.0\VGS.Shared.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\bin\Debug\net7.0\VGS.Shared.pdb
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\refint\VGS.Shared.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\VGS.Shared.pdb
+C:\VS\IT-Strategy\VideoGameStore\VGS.Shared\obj\Debug\net7.0\ref\VGS.Shared.dll

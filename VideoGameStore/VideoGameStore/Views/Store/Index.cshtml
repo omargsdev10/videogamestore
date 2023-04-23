@@ -1,0 +1,196 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model VideoGameStore.ViewModels.VideoGameViewModel
+@{
+    ViewData["Title"] = "Videogames Store";
+    var videoGameList = (VGS.Shared.Response.VideoGameListResponse)ViewBag.VideoGameList;
+}
+
+<div class="text-center">
+    <h2 class="display-4"><i class="fa fa-gamepad" aria-hidden="true"></i> Videojuegos disponibles</h2>
+</div>
+<div class="row">
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <button type="button" onclick="cleanForm()" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#videoGameModal">
+            <i class="fa fa-plus"></i>
+            Agregar
+        </button>
+        @if (Model.IsTableView)
+        {
+            <button type="button" onclick="location.href='@Url.Action("Index", "Store", new { isTableView = false })'" class="btn btn-success">
+                <i class="fa fa-id-card"></i>
+                Ver en tarjetas
+            </button>
+        }
+        else
+        {
+            <button type="button" onclick="location.href='@Url.Action("Index", "Store", new { isTableView = true })'" class="btn btn-success">
+                <i class="fa fa-th-list" aria-hidden="true"></i>
+                Ver en tabla
+            </button>
+        }
+    </div>
+</div>
+
+@if (Model.IsTableView)
+{
+        <div class="row">
+            <div class="col-12">
+                <table class="table table-responsive">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Titulo</th>
+                            <th>Descripción</th>
+                            <th>Calificación</th>
+                            <th>Consola</th>
+                            <th>Genero</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in videoGameList.VideoGameList)
+                        {
+                            <tr>
+                                <td>
+                                    <img height="100px" src="@item.Base64Image" alt="@item.Title">
+                                </td>
+                                <td>@item.Title (@item.Anho)</td>
+                                <td>@item.Description</td>
+                                <td>
+                                    <span class="badge bg-warning">
+                                        <i class="fa fa-star"></i>
+                                        @item.Ranking
+                                    </span>
+                                </td>
+                                <td>
+                                    <span class="badge bg-info">@item.Console.Name</span>
+                                </td>
+                                <td>
+                                    <span class="badge bg-success">@item.Gender.Name</span>
+                                </td>
+                                <td>
+                                    <div class="row">
+                                    <button type="button" class="btn btn-sm btn-primary col-sm-5" onclick="getEditVideoGame(@item.Id)" style="margin-right: 3px;">
+                                        <i class="fa fa-pencil"></i>
+                                    </button>
+                                    <button type="button" onclick="location.href='@Url.Action("DisableVideoGame", "Store", new { Id = item.Id, IsTableView = true })'" class="btn btn-sm btn-danger col-sm-5">
+                                        <i class="fa fa-trash"></i>
+                                    </button>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    
+}
+else
+{
+    <div class="row">
+        @foreach (var item in videoGameList.VideoGameList)
+        {
+            <div class="col-sm-6 col-md-3">
+                <div class="card" style="margin-bottom: 15px;">
+                    <img class="card-img-top" height="330px" src="@item.Base64Image" alt="@item.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title (@item.Anho)</h5>
+                        <span class="badge bg-danger">@item.Gender.Name</span>
+                        <span class="badge bg-info">@item.Console.Name</span>
+
+                        <span class="badge bg-warning">
+                            <i class="fa fa-star"></i>
+                            @item.Ranking
+                        </span>
+                        
+                        <p class="card-text">@item.Description</p>
+                        <button type="button" class="btn btn-primary" onclick="getEditVideoGame(@item.Id)">
+                            <i class="fa fa-pencil"></i>
+                            Editar
+                        </button>
+                        <button type="button" class="btn btn-danger" onclick="disableVideoGame(@item.Id, '@Model.IsTableView')">
+                            <i class="fa fa-trash"></i>
+                            Eliminar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@if (videoGameList.VideoGameList.Count == 0)
+{
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-center">No existen elementos</h3>
+        </div>
+    </div>
+}
+
+@Html.Partial("_FormVideoGamePartial", Model)
+@Html.Partial("_DeleteVideoGameModalPartial")
+
+@if (Model.OpenModal)
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#videoGameModal").modal('show');
+        });
+    </script>
+}
+
+<script type="text/javascript">
+    function getEditVideoGame(id) {
+        $.ajax({
+            url: '@Url.Action("EditVideoGame", "Store")',
+            type: 'GET',
+            data: {
+                Id: id
+            }
+        })
+        .done(function (response) {
+            $("#id").val(id);
+            $("#IsTableView").val(response.isTableView);
+            $("#base64ImageFile").val(response.base64ImageFile);
+            $("#imageEdit").attr('src', response.base64ImageFile);
+            $("#title").val(response.title);
+            $("#description").val(response.description);
+            $("#anho").val(response.anho);
+            $("#ranking").val(response.ranking);
+            $('#consoleId option[value=' + response.consoleId + ']').attr('selected', 'selected');
+            $('#genderId option[value=' + response.genderId + ']').attr('selected', 'selected');
+            $('#anhoId option[value=' + response.anho + ']').attr('selected', 'selected');
+            $('#ranking option[value=' + response.ranking + ']').attr('selected', 'selected');
+            $("#videoGameModal").modal('show');
+            $("#imgEditContainer").show();
+        });
+    }
+    function cleanForm()
+    {
+        console.log("limpiando");
+        $("#id").val("");
+        $("#base64ImageFile").val("");
+        $("#imageEdit").attr('src', "");
+        $("#title").val("");
+        $("#description").val("");
+        $("#anho").val("");
+        $("#ranking").val("");
+        $('#consoleId option[value=0]').attr('selected', 'selected');
+        $('#genderId option[value=0]').attr('selected', 'selected');
+        $('#anhoId option[value=0]').attr('selected', 'selected');
+        $('#ranking option[value=0]').attr('selected', 'selected');
+        $("#videoGameModal").modal('show');
+        $("#imgEditContainer").hide();
+    }
+
+    function disableVideoGame(Id, IsTableView)
+    {
+        $("#btnDeleteModal").attr("onclick", "location.href='/Store/DisableVideoGame/" + Id + "?IsTableView=" + IsTableView + "'");
+        $("#videoGameDisableModal").modal('show');
+    }
+
+</script>

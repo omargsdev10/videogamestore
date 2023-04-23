@@ -1,0 +1,15 @@
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\bin\Debug\net7.0\VGS.Repository.deps.json
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\bin\Debug\net7.0\VGS.Repository.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\bin\Debug\net7.0\VGS.Repository.pdb
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.csproj.AssemblyReference.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.AssemblyInfoInputs.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.AssemblyInfo.cs
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.csproj.CoreCompileInputs.cache
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\refint\VGS.Repository.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.pdb
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\ref\VGS.Repository.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\bin\Debug\net7.0\VGS.Shared.dll
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\bin\Debug\net7.0\VGS.Shared.pdb
+C:\VS\IT-Strategy\VideoGameStore\VGS.Repository\obj\Debug\net7.0\VGS.Repository.csproj.CopyComplete

@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model VideoGameStore.ViewModels.VideoGameViewModel
+@{
+}
+
+<div class="modal fade" id="videoGameModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            
+            @using (Html.BeginForm("_PostVideoGame", "Store", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">
+                        @if (Model.Id > 0)
+                        {
+                            @Html.Raw("Edición de videojuego")
+                        }
+                        else
+                        {
+                            @Html.Raw("Alta de videojuego")
+                        }
+                    </h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                @Html.HiddenFor(model => model.Id, new { @Id = "id" })
+                @Html.HiddenFor(model => model.IsTableView, new { @Id = "isTableView" })
+                @Html.HiddenFor(model => model.Base64ImageFile, new { @Id = "base64ImageFile" })
+                <div class="modal-body">
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Title, new { @class = "form-label" })
+                        @Html.TextBoxFor(m => m.Title, new { @Id = "title", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Title, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Description, new { @class = "form-label" })
+                        @Html.TextAreaFor(m => m.Description, new { @Id = "description", @class = "form-control", @rows = "3" })
+                        @Html.ValidationMessageFor(m => m.Description, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Anho, new { @class = "form-label" })
+                        @Html.DropDownListFor(m => m.Anho, VideoGameStore.Controllers.StoreController.GetDropDownListForYears(), new { @Id = "anhoId", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Anho, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Ranking, new { @class = "form-label" })
+                        @Html.DropDownListFor(m => m.Ranking, VideoGameStore.Controllers.StoreController.GetDropDownListRanking(), new { @Id = "ranking", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Ranking, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.ConsoleId, new { @class = "form-label" })
+                        @Html.DropDownListFor(m => m.ConsoleId, new SelectList(Model.ConsoleList, "Value", "Text"), "Seleccionar", new { @Id = "consoleId", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.ConsoleId, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.GenderId, new { @class = "form-label" })
+                        @Html.DropDownListFor(m => m.GenderId, new SelectList(Model.GenderList, "Value", "Text"), "Seleccionar", new { @Id = "genderId", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.GenderId, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        <input asp-for="ImageFile" accept="image/*" />
+                    </div>
+                    <div class="mb-3" id="imgEditContainer" style="display:none">
+                        <img id="imageEdit" style="display:block; margin:auto;" height="100px">
+                        <label class="text-info">Si desea reemplazar la imagen, solo seleccione una nueva</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </div>
+            }  
+        </div>
+    </div>
+</div>
