@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Smv2962bVeHAy+QSurUOCv8ZV7ZvaS+4wF78uW4eHAM=",
+  "Hash": "mEDnS6zc8NJDZ4kPfU6VIWYbyvgHG8MtD/PaISCIenA=",
   "Source": "VideoGameStore",
   "BasePath": "_content/VideoGameStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "VideoGameStore\\wwwroot",
       "Source": "VideoGameStore",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\VideoGameStore.styles.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\VideoGameStore.styles.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "VideoGameStore.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\VideoGameStore.styles.css"
+      "OriginalItemSpec": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\bundle\\VideoGameStore.styles.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VideoGameStore.bundle.scp.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VideoGameStore.bundle.scp.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "VideoGameStore.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VideoGameStore.bundle.scp.css"
+      "OriginalItemSpec": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VideoGameStore.bundle.scp.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\css\\site.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\css\\site.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\favicon.ico",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\favicon.ico",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/css/font-awesome.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/HELP-US-OUT.txt",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\animated.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\animated.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/animated.less",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\core.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\core.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/core.less",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\fixed-width.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/fixed-width.less",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\font-awesome.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/font-awesome.less",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\icons.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\icons.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/icons.less",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\larger.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\larger.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/larger.less",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\list.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\list.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/list.less",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\mixins.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\mixins.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/mixins.less",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\path.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\path.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/path.less",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\screen-reader.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/screen-reader.less",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\stacked.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\stacked.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/stacked.less",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\variables.less",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\less\\variables.less",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/less/variables.less",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_animated.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_animated.scss",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_core.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_core.scss",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_icons.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_icons.scss",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_larger.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_larger.scss",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_list.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_list.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_mixins.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_path.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_path.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_screen-reader.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_stacked.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\_variables.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/_variables.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "font-awesome-4.7.0/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\js\\site.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\js\\site.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "VideoGameStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\wwwroot\\",
+      "ContentRoot": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\wwwroot\\",
       "BasePath": "_content/VideoGameStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

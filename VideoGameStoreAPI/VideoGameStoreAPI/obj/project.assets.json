@@ -2958,11 +2958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\VideoGameStoreAPI\\VideoGameStoreAPI.csproj",
+      "projectUniqueName": "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\VideoGameStoreAPI\\VideoGameStoreAPI.csproj",
       "projectName": "VideoGameStoreAPI",
-      "projectPath": "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\VideoGameStoreAPI\\VideoGameStoreAPI.csproj",
+      "projectPath": "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\VideoGameStoreAPI\\VideoGameStoreAPI.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\VideoGameStoreAPI\\obj\\",
+      "outputPath": "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\VideoGameStoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2985,11 +2985,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\API.Service\\API.Service.csproj": {
-              "projectPath": "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\API.Service\\API.Service.csproj"
+            "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\API.Service\\API.Service.csproj": {
+              "projectPath": "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\API.Service\\API.Service.csproj"
             },
-            "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj": {
-              "projectPath": "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj"
+            "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj": {
+              "projectPath": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj"
             }
           }
         }

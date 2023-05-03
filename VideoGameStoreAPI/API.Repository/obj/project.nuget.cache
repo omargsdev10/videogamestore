@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4WE2a1rbENDvDjYYPgkkgaEC5bG3l6H7YvTjW1XubZPNtT5/Jz7uJ5IT/K/v3YsUglm+QWFixpVa8ScUzT6sQ==",
+  "dgSpecHash": "CrU6t/nIM42iE5+goi+lHDnXuHPdWEC5yZEwnOeBhE+NtiPHi9Xv0Pt92yyPRgdjoJWmSgq2uEiEdTSpeucxVA==",
   "success": true,
-  "projectFilePath": "C:\\VS\\IT-Strategy\\VideoGameStoreAPI\\API.Repository\\API.Repository.csproj",
+  "projectFilePath": "C:\\GitHub\\VideoGameStore\\VideoGameStoreAPI\\API.Repository\\API.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BUUmbHkCHr3K3W93ngDF9a0Bd3PK9TFhHmknu9TvZKATNSe1RRkAcCw/AIN4zpgr5gyVsYqA4Q2qGN1za5zSzA==",
+  "dgSpecHash": "PtkySWPY9cMEoZcxHzTmFyfch877ewmMTNJhr4YeT1IHd8x1u8NxeqH2f1nGv6YMyM0i4mG4+X6tTzktei8m2g==",
   "success": true,
-  "projectFilePath": "C:\\VS\\IT-Strategy\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
+  "projectFilePath": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

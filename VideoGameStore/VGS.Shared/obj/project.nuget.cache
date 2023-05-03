@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dpS4T1Fn8wKVq5hLqA5bTtCdFJy9dk2Qs/BTj6zqUeEi3r7sP17n0ORvZrSxAZxG1fyCnYF21m66AdTI/UeXw==",
+  "dgSpecHash": "qUXCL9OK2S3GnrOQXow0CI0aKS/bYbGkDwKvQEELVYkCx1bBX7BucadlGxQIdkFXPazUmPKuUfqsF7b+glrZcw==",
   "success": true,
-  "projectFilePath": "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
+  "projectFilePath": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

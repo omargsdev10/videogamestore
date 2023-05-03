@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
+      "projectUniqueName": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
       "projectName": "VGS.Shared",
-      "projectPath": "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
+      "projectPath": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\VGS.Shared.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\VS\\IT-Strategy\\VideoGameStore\\VGS.Shared\\obj\\",
+      "outputPath": "C:\\GitHub\\VideoGameStore\\VideoGameStore\\VGS.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

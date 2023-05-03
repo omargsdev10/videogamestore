@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VideoGameStore
 build_property.RootNamespace = VideoGameStore
-build_property.ProjectDir = C:\VS\IT-Strategy\VideoGameStore\VideoGameStore\
+build_property.ProjectDir = C:\GitHub\VideoGameStore\VideoGameStore\VideoGameStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\VS\IT-Strategy\VideoGameStore\VideoGameStore
+build_property.MSBuildProjectDirectory = C:\GitHub\VideoGameStore\VideoGameStore\VideoGameStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Home/Index.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Home/Privacy.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Shared/Error.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Store/Index.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Store/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Store/_DeleteVideoGameModalPartial.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Store/_DeleteVideoGameModalPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcX0RlbGV0ZVZpZGVvR2FtZU1vZGFsUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Store/_FormVideoGamePartial.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Store/_FormVideoGamePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcX0Zvcm1WaWRlb0dhbWVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/_ViewImports.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/_ViewStart.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VS/IT-Strategy/VideoGameStore/VideoGameStore/Views/Shared/_Layout.cshtml]
+[C:/GitHub/VideoGameStore/VideoGameStore/VideoGameStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wznnh6x4u3
